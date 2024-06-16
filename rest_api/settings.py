@@ -65,6 +65,7 @@ MIDDLEWARE = [
 
 CORS_ORIGIN_WHITELIST = [
     "http://localhost:3000",
+    "https://nexjs-blog-todos-eight.vercel.app",
 ]
 
 SIMPLE_JWT = {
